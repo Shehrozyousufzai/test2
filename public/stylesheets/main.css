@@ -1,0 +1,13 @@
+body{
+  background-color: #580933C0;
+  margin: 90px;
+}
+h1{
+  background-color: cornsilk;
+  text-align: center;
+  padding: 1em;
+  font-size: 50px;
+  border-radius: 50px;
+  text-shadow: 1px 1px #a39a9a;
+  border-style:  solid;
+}
